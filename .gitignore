@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+meshes/
+data/tensorboard_logs
+checkpoints/
+.DS_Store
+walking_environment.yml
