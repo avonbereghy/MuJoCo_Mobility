@@ -211,3 +211,4 @@ data/tensorboard_logs
 checkpoints/
 .DS_Store
 walking_environment.yml
+Videos/*.mp4
