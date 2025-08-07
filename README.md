@@ -2,23 +2,6 @@
 
 A reinforcement learning project demonstrating bipedal locomotion in MuJoCo physics simulator, trained using Soft Actor-Critic (SAC) algorithm via Stable Baselines3.
 
-## Overview
-
-This project explores two distinct locomotion challenges:
-- **Walking with Constraints**: Learning to walk under increased resistance and damped motion conditions
-- **Running**: Learning to run at maximum speed under default physics conditions
-
-## Key Features
-
-- **Algorithm**: Soft Actor-Critic (SAC) - an off-policy deep reinforcement learning algorithm
-- **Environment**: MuJoCo physics simulator with humanoid model
-- **Framework**: Stable Baselines3 for robust RL implementation
-- **Training Duration**: Up to 14 million timesteps for optimal performance
-
-## Training Results
-
-The agent demonstrates progressive learning across millions of training steps, evolving from unstable movements to coordinated bipedal locomotion.
-
 ## Visualized Training Progress
 
 <table>
